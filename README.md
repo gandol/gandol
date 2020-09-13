@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmad gika</h1>
-<h3 align="center">i am a indonesia programmer</h3>
+<h3 align="center">i am an indonesia programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandol" alt="gandol" /> </p>
 
