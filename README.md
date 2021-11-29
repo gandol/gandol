@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm gandol</h1>
-<h3 align="center">i am a indonesia programmer</h3>
+<h3 align="center">I am Excited to new thing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandol&label=Profile%20views&color=0e75b6&style=flat" alt="gandol" /> </p>
 
-- 🔭 I’m currently working on **qris inegration**
+- 🔭 I’m currently working on **qris integration**
 
 - 🌱 I’m currently learning **mobile pentesting**
 
